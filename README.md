@@ -9,8 +9,7 @@ A third-year undergraduate Statistics student at Abubakar Tafawa Balewa Universi
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://dev-yusuf,netlify.app)
 * ✉️  You can contact me at [devyusuf01@gmail.com](mailto:devyusuf01@gmail.com)
-* 🚀  I'm currently working on [Agroservers](http://agroservers.herokuapp.com/)
-* 🚀  I'm currently working on [Root Care](https://rootcare.netlify.app/)
+* 🚀  I'm currently working on [Agroservers](http://agroservers.herokuapp.com/), [Root Care](https://rootcare.netlify.app/)
 * 🧠  I'm learning Pyhton, Django, postgresql, sql
 * 🤝  I'm open to collaborating on any webapp that solves problems
 * ⚡  I love reading books about personal development, documentaries i google a lot. and also, i tend to bring business in whatever i do.
